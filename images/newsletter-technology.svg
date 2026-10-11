@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+<title id="title">Technology, digital media, and music</title><desc id="desc">An editing timeline on a computer screen next to a vinyl record.</desc>
+<rect width="560" height="240" rx="12" fill="#fff0f5"/>
+<rect x="36" y="30" width="290" height="163" rx="8" fill="#483d8b"/>
+<rect x="48" y="42" width="266" height="138" rx="3" fill="#f8d5e2"/>
+<rect x="61" y="54" width="240" height="15" rx="2" fill="#6b245e"/>
+<rect x="61" y="83" width="108" height="54" rx="3" fill="#483d8b"/>
+<path d="m100 94 28 16-28 16z" fill="#fff0f5"/>
+<rect x="182" y="83" width="119" height="9" fill="#6b245e"/><rect x="182" y="101" width="97" height="9" fill="#6b245e"/><rect x="182" y="119" width="109" height="9" fill="#6b245e"/>
+<rect x="61" y="150" width="72" height="15" fill="#483d8b"/><rect x="138" y="150" width="94" height="15" fill="#6b245e"/><rect x="237" y="150" width="64" height="15" fill="#483d8b"/>
+<path d="M162 193v19h-39v10h116v-10h-39v-19" fill="#483d8b"/>
+<circle cx="433" cy="125" r="88" fill="#222"/><circle cx="433" cy="125" r="72" fill="none" stroke="#555"/><circle cx="433" cy="125" r="60" fill="none" stroke="#555"/><circle cx="433" cy="125" r="48" fill="none" stroke="#555"/><circle cx="433" cy="125" r="33" fill="#6b245e"/><circle cx="433" cy="125" r="6" fill="#fff0f5"/>
+</svg>
