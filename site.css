@@ -431,3 +431,10 @@ address {
     color: red;
     font-weight: bold;
 }
+
+/* Contact form controls: keep inputs within the existing table. */
+.contact-table input[type="text"],
+.contact-table input[type="email"],
+.contact-table textarea {
+    max-width: 100%;
+}
